@@ -1,0 +1,56 @@
+.Timer
+
+{
+
+display: flex;
+justify-content: space-around;
+width : 40%;
+
+
+}
+
+label
+{
+    color: gray;
+}
+
+
+.DynamicTimer
+{
+    
+     display: flex;
+     flex-direction: column;
+    width: 400px;
+    height: 500px;
+    justify-content: center;
+     align-items: center;
+     border: 2px solid black;
+     border-radius: 7px;
+    
+
+}
+
+
+.ButtTimer{
+
+    padding-top: 100px;
+    display: flex;
+    justify-content:  space-between;
+    align-items: center;
+    width:80%;
+
+}
+
+
+.ButtTimer button
+{
+   width:120px;
+   height: 40px;
+   border-radius: 3px;
+   border : 2px solid lightblue;
+   background-color: white;
+
+}
+
+
+
